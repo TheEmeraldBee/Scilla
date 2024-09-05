@@ -6,3 +6,5 @@ license.workspace = true
 edition.workspace = true
 
 [dependencies]
+wgpu.workspace = true
+winit.workspace = true

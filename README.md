@@ -2,7 +2,7 @@
 A performance focused, lightweight game framework, built from the ground up using wgpu and winit
 
 # What is it?
-It is a game framework built to use all of the capabilities of a machine.
+It is a game framework built to be performant and accessible to everyone.
 
 # What is it not?
 It is not a fully featured game engine. There are no plans to add a Scene System, or a ECS.
